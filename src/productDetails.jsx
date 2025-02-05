@@ -1,5 +1,5 @@
 import { useState,useEffect } from "react"
-import "./productdetails.css"
+import "./productDetails.css"
 import axios from "axios"
 import {useParams} from "react-router-dom"
 function Productdetails() {
